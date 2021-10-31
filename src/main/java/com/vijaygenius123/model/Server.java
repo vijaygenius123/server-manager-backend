@@ -10,6 +10,7 @@ import javax.validation.constraints.NotEmpty;
 
 
 @Entity
+@Data
 @AllArgsConstructor
 @NoArgsConstructor
 public class Server {
